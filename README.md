@@ -1,5 +1,4 @@
 # V2ray.fun
-V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受V2ray的乐趣~
 
 ## 功能
 
@@ -45,17 +44,20 @@ V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受
 
 ## 安装命令
 
-```bash
+```
+bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/v2ray.fun/master/install.sh && bash install.sh
 ```
 
 ## 升级命令
-```bash
+```
+bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/v2ray.fun/master/upgrade.sh && bash upgrade.sh && rm -rf upgrade.sh
 ```
 
 ## 卸载命令
-```bash
+```
+bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/v2ray.fun/master/uninstall.sh && bash uninstall.sh
 ```
 
@@ -65,13 +67,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/v2
 第一版通过测试发布。
 
 **2017.10.16**
-新增TLS功能，自动获取证书。
+新增 TLS 功能，自动获取证书。
 
 ## 特别说明
 
 有任何问题或者新功能想法欢迎提交 Issue，我会抽空回答。
 
-本程序遵循 GPL v3协议发布，请Fork保留源项目地址，谢谢！
+本程序遵循 GPL v3 协议发布，请 Fork 保留源项目地址，谢谢！
 
 ## 感谢
 
